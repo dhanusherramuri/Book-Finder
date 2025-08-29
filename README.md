@@ -1,12 +1,9 @@
-# React + Vite
+The Book Finder Project is a Simple project that has been developed to search for books all over the internet.
+It has been developed using React.js,Tailwind CSS and Open API for free and better searching.
+There is no need of backend because we are not storing any user details in this particular site.
+The whole project has been developed and deployed in a span of 6 hours along with testing..
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SITE LINK : https://coruscating-clafoutis-d43fac.netlify.app/
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+THE PROJECT HAS BEEN DEPLOYED IN NETLIFY
